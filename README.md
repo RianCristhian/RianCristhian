@@ -1,6 +1,7 @@
 <div align="center">
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2000&pause=1000&color=fe428e&center=true&vCenter=true&width=600&lines=Olá!+Eu+sou+o+Rian+👋;Desenvolvedor+e+Entusiasta+de+T.I+e+S.I;" />
+    <img src="https://readme-typing-svg.demolab.com?    
+        font=Poppins&size=22&duration=2000&pause=1000&color=fe428e&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Eu+sou+o+Rian+%F0%9F%91%8B;Desenvolvedor+e+Entusiasta+de+T.I+e+S.I;" />
   </p>
 </div>
 
